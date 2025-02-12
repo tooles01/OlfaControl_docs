@@ -1,0 +1,16 @@
+site_name: OlfaControl_docs
+site_url: https://test-olfacontrol.readthedocs.io
+site_description: 8-line Olfactometer + Mixing Chamber
+site_author: Shannon Toole
+
+theme:
+    name: readthedocs
+
+repo_url: https://github.com/tooles01/OlfaControl_docs
+
+nav:
+- Home: index.md
+
+- User Guide:
+    - Getting Started: Getting_Started.md
+
