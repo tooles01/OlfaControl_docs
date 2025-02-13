@@ -7,8 +7,8 @@
 <br>
 
 <p align="center">
-  <img src="images/mc_side_view.png" width="40%">
-  <img src="images/mc_top_view.png" width="40%">
+    <img src="images/mc_side_view.png" width="40%">
+    <img src="images/mc_top_view.png" width="40%">
 </p>
 
 <br>
@@ -40,8 +40,8 @@ to make a single unit:
 
 <br><br>
 
-#
-#
+
+
 
 ## Electronics
 
